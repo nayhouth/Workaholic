@@ -1,0 +1,12 @@
+# application-dev.yaml
+
+spring:
+  datasource:
+    url: jdbc:postgresql://127.0.0.1:5432/workaholic
+    username: sysadmin
+    password: e20160825Houth
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true

@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Workaholic
+
+  profiles:
+    active: dev
