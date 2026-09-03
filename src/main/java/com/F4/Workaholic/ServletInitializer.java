@@ -1,4 +1,4 @@
-package com.Workaholic.Workaholic;
+package com.F4.Workaholic;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

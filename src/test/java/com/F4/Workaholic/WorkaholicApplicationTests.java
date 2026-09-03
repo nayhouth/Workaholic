@@ -1,4 +1,4 @@
-package com.Workaholic.Workaholic;
+package com.F4.Workaholic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
