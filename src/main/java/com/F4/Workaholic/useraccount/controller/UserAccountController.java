@@ -36,7 +36,7 @@ public class UserAccountController {
             @PathVariable Long id,
             @RequestBody UserAccount userAccount) {
 
-        return service.update(userAccount);
+        return service.update(id, userAccount);
     }
 
     @DeleteMapping("/{id}")
